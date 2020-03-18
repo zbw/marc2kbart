@@ -11,7 +11,7 @@
 #
 # How it works:
 # This script awaits record ids (MARC 21 field 001) from the K10Plus union catalogue in a
-# separate file. 
+# separate file.
 # It queries the unAPI interface and downloads bib records and holdings records from ZBW's
 # collection. The records are then being processed and converted using Catmandu and the
 # conversion rules specied in 'marc2kbart.fix' fix file.
@@ -23,9 +23,9 @@
 #   VZG headquarter adds Pica+ 231@ to the MARC21 export.
 # - Need to add mapping rules for monographic resources. Until then the fields are created with
 #   blank values.
-# - The record id is written into the first column 'identifier'. This is mainly for debugging 
+# - The record id is written into the first column 'identifier'. This is mainly for debugging
 #   purposes. Before uploading the data into Folio the column has to be removed or the mapping
-#   rule has to be deleted in the 'marc2kbart.fix' file. 
+#   rule has to be deleted in the 'marc2kbart.fix' file.
 
 
 # Check if arguments are provided
@@ -37,7 +37,7 @@ fi
 echo "Please wait... Records are being downloaded."
 
 # Parse recordIds and download records
-# Safe records as records.xml
+# Save records as records.xml
 # unAPI documentation: https://wiki.k10plus.de/display/K10PLUS/UnAPI
 cat $1 | xargs -n 1 -i curl -sS "http://unapi.k10plus.de/?id=opac-de-206:ppn:{}&format=marcxml" > records.xml
 echo "Records are being converted to KBART format."
