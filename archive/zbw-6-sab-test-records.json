@@ -1,0 +1,28 @@
+{
+  "header": {
+    "dataSchema": {
+      "name": "mod-agreements-package",
+      "version": 1.0
+    }
+  },
+  "records": [
+  {
+    "source": "K10Plus",
+    "reference": "ZBW-6-SAB",
+    "name": "Sabinet:Sabinet ZBW Kollektion:ZBW-6-SAB",
+    "packageProvider": {
+      "name": "Sabinet"
+    },
+    "contentItems": [{"depth": "fulltext", "coverage": [ {"startDate": "2018-01-01","startVolume": "42"}],"platformTitleInstance": { "platform": "Sabinet", "platform_url": "https://journals.co.za/","url": "https://journals.co.za/content/journal/labour1","titleInstance": {"name": "African journal of employee relations","identifiers" : [{"value": "2520-3223","namespace" : "eissn"}],}}},
+{"depth": "fulltext", "coverage": [ {"startDate": "2016-01-01","startVolume": "1","startIssue": "1"}],"platformTitleInstance": { "platform": "Sabinet", "platform_url": "https://journals.co.za/","url": "https://journals.co.za/content/journal/japed","titleInstance": {"name": "Journal of African political economy and development","identifiers" : [{"value": "2518-847x","namespace" : "eissn"}],}}},
+{"depth": "fulltext", "coverage": [ {"startDate": "2016-01-01"}],"platformTitleInstance": { "platform": "Sabinet", "platform_url": "https://journals.co.za/","url": "https://journals.co.za/content/journal/acbr","titleInstance": {"name": "Africa country benchmark report",}}},
+{"depth": "fulltext", "coverage": [ {"startDate": "2013-01-01","startVolume": "1"}],"platformTitleInstance": { "platform": "Sabinet", "platform_url": "https://journals.co.za/","url": "http://www.journals.co.za/content/journal/ghajecon","titleInstance": {"name": "Ghanaian journal of economics",}}},
+{"depth": "fulltext", "coverage": [ {"startDate": "2007-01-01"}],"platformTitleInstance": { "platform": "Sabinet", "platform_url": "https://journals.co.za/","url": "http://reference.sabinet.co.za/sa_epublication/afgrow","titleInstance": {"name": "Africagrowth agenda",}}},
+{"depth": "fulltext", "coverage": [ {"startDate": "2004-01-01","startVolume": "1","startIssue": "1"}],"platformTitleInstance": { "platform": "Sabinet", "platform_url": "https://journals.co.za/","url": "https://journals.co.za/content/journal/jcman","titleInstance": {"name": "Journal of Contemporary Management","identifiers" : [{"value": "1815-7440","namespace" : "eissn"}],}}},
+{"depth": "fulltext", "coverage": [ {"startDate": "1999-01-01","startVolume": "1","startIssue": "1"}],"platformTitleInstance": { "platform": "Sabinet", "platform_url": "https://journals.co.za/","url": "http://journals.co.za/content/journal/finj","titleInstance": {"name": "African finance journal",}}},
+{"depth": "fulltext", "coverage": [ {"startDate": "1998-01-01","startVolume": "1"}],"platformTitleInstance": { "platform": "Sabinet", "platform_url": "http://reference.sabinet.co.za/sa_epublication/sajaar","url": "http://www.journals.co.za/ej/ejour_sajaar.html","titleInstance": {"name": "Southern African journal of accountability and auditing research","identifiers" : [{"value": "1028-9011","namespace" : "eissn"}],}}},
+{"depth": "fulltext", "coverage": [ {"startDate": "1971-01-01","startVolume": "1","startIssue": "1"}],"platformTitleInstance": { "platform": "Sabinet", "platform_url": "https://journals.co.za/","url": "http://journals.co.za/content/journal/canus_v46_n1_2016","titleInstance": {"name": "Africanus","identifiers" : [{"value": "0304-615X","namespace" : "eissn"}],}}},
+{"depth": "fulltext", "coverage": [ {"startDate": "1967-01-01","startVolume": "1"}],"platformTitleInstance": { "platform": "Sabinet", "platform_url": "https://journals.co.za/","url": "https://journals.co.za/content/journal/sasj/browse?","titleInstance": {"name": "South African statistical journal",}}}  ]
+  }
+]
+}

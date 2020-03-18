@@ -1,0 +1,1602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">1666812412</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20190823152339.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">190605c20189999xx z| p|o    |0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1187840181</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2974137-3</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2520-3223</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1666812412</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2974137-3</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XC-ZA</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">300</subfield>
+    <subfield code="a">330</subfield>
+    <subfield code="a">360</subfield>
+    <subfield code="a">380</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">3,2</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">African journal of employee relations</subfield>
+    <subfield code="c">published by the School of Management Sciences and the Graduate School of Business Leadership of the University of South Africa</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">[Centurion]</subfield>
+    <subfield code="b">Unisa Press</subfield>
+    <subfield code="c">[2018]-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Vol 42, issue 1 (2018)-</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">42</subfield>
+    <subfield code="i">2018</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 05.06.2019</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Arbeitsbeziehungen</subfield>
+    <subfield code="0">(DE-627)091347459</subfield>
+    <subfield code="0">(DE-STW)11314-1</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Personalmanagement</subfield>
+    <subfield code="0">(DE-627)091382866</subfield>
+    <subfield code="0">(DE-STW)12567-2</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.3\x</subfield>
+    <subfield code="a">Arbeitsmarktforschung</subfield>
+    <subfield code="0">(DE-627)091347602</subfield>
+    <subfield code="0">(DE-STW)19767-1</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.4\x</subfield>
+    <subfield code="a">Südafrika</subfield>
+    <subfield code="0">(DE-627)091393493</subfield>
+    <subfield code="0">(DE-STW)17688-0</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">University of South Africa</subfield>
+    <subfield code="b">School of Management Sciences</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)1187839809</subfield>
+    <subfield code="0">(DE-627)1666875333</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">University of South Africa</subfield>
+    <subfield code="b">School of Business Leadership</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)1079371-9</subfield>
+    <subfield code="0">(DE-627)100382304</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="780" ind1="0" ind2="0">
+    <subfield code="i">Fortsetzung von</subfield>
+    <subfield code="t">South African journal of labour relations</subfield>
+    <subfield code="d">Pretoria, 1987</subfield>
+    <subfield code="h">Online-Ressource</subfield>
+    <subfield code="w">(DE-627)371099471</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://journals.co.za/content/journal/labour1</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2974137</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">3481327676</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="g">ZBW-6-SAB</subfield>
+    <subfield code="h">H:</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">3481327684</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">103050346X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20190609135444.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">180910c20169999xx a| p|o    |0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1166604780</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2942034-9</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2518-847x</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)103050346X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)510815634</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2942034-9</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-101)1166604780</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XC-ZA</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">330</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">AFRIKA</subfield>
+    <subfield code="q">DE-30</subfield>
+    <subfield code="2">fid</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Journal of African political economy and development</subfield>
+    <subfield code="c">The African Finance &amp; Economics Consult</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">[Erscheinungsort nicht ermittelbar]</subfield>
+    <subfield code="b">The African Finance &amp; Economics Consult</subfield>
+    <subfield code="c">[2016]-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Volume 1, issue 1 (december 2016)-</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="j">12</subfield>
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="i">2016</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 10.09.2018</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Wirtschaftswissenschaft</subfield>
+    <subfield code="0">(DE-627)091401372</subfield>
+    <subfield code="0">(DE-STW)10032-2</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Entwicklung</subfield>
+    <subfield code="0">(DE-627)091357322</subfield>
+    <subfield code="0">(DE-STW)10513-0</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.3\x</subfield>
+    <subfield code="a">Afrika</subfield>
+    <subfield code="0">(DE-627)091345790</subfield>
+    <subfield code="0">(DE-STW)17642-3</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">African Finance and Economics Consult</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)1060231530</subfield>
+    <subfield code="0">(DE-627)79932275X</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://journals.co.za/content/journal/japed</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2942034</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1869867998</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="g">ZBW-6-SAB</subfield>
+    <subfield code="h">K:</subfield>
+    <subfield code="k">http://www.bibliothek.uni-regensburg.de/ezeit/?2942034</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1869868005</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">1015507697</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20190823134303.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">180308c20169999xx a| p|o    |0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1153904128</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2922510-3</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1015507697</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)500625557</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2922510-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-101)1153904128</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XC-ZA</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">330</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Africa country benchmark report</subfield>
+    <subfield code="b">ACBR</subfield>
+    <subfield code="c">In On Africa</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Johannesburg, South Africa</subfield>
+    <subfield code="b">In On Africa</subfield>
+    <subfield code="c">[2016]-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">2016-</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="i">2016</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 11.04.2019</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">206!URL-Ä(11-04-19)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Wirtschaftslage</subfield>
+    <subfield code="0">(DE-627)091401070</subfield>
+    <subfield code="0">(DE-STW)10342-1</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Institutionelle Infrastruktur</subfield>
+    <subfield code="0">(DE-627)091367980</subfield>
+    <subfield code="0">(DE-STW)12009-1</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.3\x</subfield>
+    <subfield code="a">Benchmarking</subfield>
+    <subfield code="0">(DE-627)091350239</subfield>
+    <subfield code="0">(DE-STW)19107-1</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.4\x</subfield>
+    <subfield code="a">Afrika</subfield>
+    <subfield code="0">(DE-627)091345790</subfield>
+    <subfield code="0">(DE-STW)17642-3</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">In On Africa</subfield>
+    <subfield code="g">Johannesburg</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)1153898438</subfield>
+    <subfield code="0">(DE-627)101550034X</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.inonafrica.com/6198-africa-country-benchmark-report/</subfield>
+    <subfield code="x">H ; Volltext nach 12 Monaten frei verfügbar</subfield>
+    <subfield code="z">Teilw. Kostenfrei</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://journals.co.za/content/journal/acbr</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2922510</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">3508281140</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="g">ZBW-6-SAB</subfield>
+    <subfield code="h">H:</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">3508281205</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">837955149</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20191213133432.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">151028c20139999xx z| p|o    |0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">107784929X</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2837757-6</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="a">98201335</subfield>
+    <subfield code="2">swets</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)837955149</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)446741442</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2837757-6</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)927924979</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XC-GH</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">330</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">!665629923!ECS-08001</subfield>
+    <subfield code="2">SKW</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Ghanaian journal of economics</subfield>
+    <subfield code="b">GJE</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">GJE</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">[S.l.]</subfield>
+    <subfield code="c">2013-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">1.2013 -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">1</subfield>
+    <subfield code="i">2013</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 20. Januar 2017</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">206!URL-Ä(05-03-16)355!URL-Ä(20-01-17)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Wirtschaftswissenschaft</subfield>
+    <subfield code="0">(DE-627)091401372</subfield>
+    <subfield code="0">(DE-STW)10032-2</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Wirtschaftsforschung</subfield>
+    <subfield code="0">(DE-627)091400937</subfield>
+    <subfield code="0">(DE-STW)10037-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.3\x</subfield>
+    <subfield code="a">Afrika</subfield>
+    <subfield code="0">(DE-627)091345790</subfield>
+    <subfield code="0">(DE-STW)17642-3</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="x">2309-8945</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Druckausg.</subfield>
+    <subfield code="t">Ghanaian journal of economics</subfield>
+    <subfield code="d">[S.l.], 2014</subfield>
+    <subfield code="w">(DE-627)837955114</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.journals.co.za/content/journal/ghajecon</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2837757</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">SSG-OLC-wiw</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">3564648097</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+    <subfield code="g">ZBW-6-SAB</subfield>
+    <subfield code="h">H:</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">3564648100</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">856603058</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20190609130356.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">160411c20079999xx z| p|o    |0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">109620746X</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2852145-6</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)856603058</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)467914796</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2852145-6</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-101)109620746X</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XC-ZA</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">330</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Africagrowth agenda</subfield>
+    <subfield code="c">Africagrowth Institute</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">Africa growth agenda</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Cape Town</subfield>
+    <subfield code="b">Africagrowth Institute</subfield>
+    <subfield code="c">2007-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Mar May, 2007-</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="i">2007</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Wirtschaftslage</subfield>
+    <subfield code="0">(DE-627)091401070</subfield>
+    <subfield code="0">(DE-STW)10342-1</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Entwicklung</subfield>
+    <subfield code="0">(DE-627)091357322</subfield>
+    <subfield code="0">(DE-STW)10513-0</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.3\x</subfield>
+    <subfield code="a">Wirtschaftspolitik</subfield>
+    <subfield code="0">(DE-627)091401143</subfield>
+    <subfield code="0">(DE-STW)10987-4</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.4\x</subfield>
+    <subfield code="a">Afrika</subfield>
+    <subfield code="0">(DE-627)091345790</subfield>
+    <subfield code="0">(DE-STW)17642-3</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Africagrowth Institute</subfield>
+    <subfield code="g">Bellville</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)16091269-6</subfield>
+    <subfield code="0">(DE-627)640480780</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://reference.sabinet.co.za/sa_epublication/afgrow</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="z">Kostenfrei</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2852145</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1609132920</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1609132939</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     nas a22        4500</leader>
+  <controlfield tag="001">1671932722</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20190823165304.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">190823c20049999xx z| p|o    |0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1193292247</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2982373-0</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1815-7440</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1671932722</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2982373-0</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XC-ZA</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">3,2</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Journal of Contemporary Management</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Tshwane</subfield>
+    <subfield code="c">2004-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Volume 1, Issue 1, (January 2004) -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="i">2004</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 22.08.2019</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Management</subfield>
+    <subfield code="0">(DE-627)091376173</subfield>
+    <subfield code="0">(DE-STW)12085-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Südafrika</subfield>
+    <subfield code="0">(DE-627)091393493</subfield>
+    <subfield code="0">(DE-STW)17688-0</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">University of Technology</subfield>
+    <subfield code="g">Tshwane</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)6041580-0</subfield>
+    <subfield code="0">(DE-627)488196744</subfield>
+    <subfield code="0">(DE-576)200348779</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://journals.co.za/content/journal/jcman</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2982373</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">350831409X</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="h">H:</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">3508314103</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">856604968</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20190609130357.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">160411c19999999xx z| p|o    |0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1096208652</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2852153-5</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="a">98201091</subfield>
+    <subfield code="2">swets</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)856604968</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)46791723X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2852153-5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-101)1096208652</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XC-ZA</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">330</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">ECS-05001</subfield>
+    <subfield code="2">SKW</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">African finance journal</subfield>
+    <subfield code="c">Africagrowth Institute</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Cape Town</subfield>
+    <subfield code="b">Africagrowth Institute</subfield>
+    <subfield code="c">1999-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Volume 1, issue 1, 1999-</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="i">1999</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 20.03.17</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Finanzmarkt</subfield>
+    <subfield code="0">(DE-627)091359937</subfield>
+    <subfield code="0">(DE-STW)13723-2</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Finanzsektor</subfield>
+    <subfield code="0">(DE-627)091360013</subfield>
+    <subfield code="0">(DE-STW)18671-5</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.3\x</subfield>
+    <subfield code="a">Entwicklung</subfield>
+    <subfield code="0">(DE-627)091357322</subfield>
+    <subfield code="0">(DE-STW)10513-0</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.4\x</subfield>
+    <subfield code="a">Afrika</subfield>
+    <subfield code="0">(DE-627)091345790</subfield>
+    <subfield code="0">(DE-STW)17642-3</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Africagrowth Institute</subfield>
+    <subfield code="g">Bellville</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)16091269-6</subfield>
+    <subfield code="0">(DE-627)640480780</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2852153</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://journals.co.za/content/journal/finj</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://reference.sabinet.co.za/document/EJC181198</subfield>
+    <subfield code="x">Agentur</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">SSG-OLC-wiw</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1609139240</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1609139259</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">521455200</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20190609082616.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">061226c19989999xx z| p|o    |0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">982027613</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2260017-6</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1028-9011</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)521455200</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)467908427</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2260017-6</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)180137536</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XC-ZA</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">330</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Southern African journal of accountability and auditing research</subfield>
+    <subfield code="b">SAJAAR</subfield>
+    <subfield code="c">Southern African Institute of Government Auditors</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">SAJAAR</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Menlo Park</subfield>
+    <subfield code="b">SAIGA</subfield>
+    <subfield code="c">1998-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">1.1998 -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="0">
+    <subfield code="a">1</subfield>
+    <subfield code="i">1998</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Rechnungswesen</subfield>
+    <subfield code="0">(DE-627)09135109X</subfield>
+    <subfield code="0">(DE-STW)12307-0</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Corporate Governance</subfield>
+    <subfield code="0">(DE-627)091354242</subfield>
+    <subfield code="0">(DE-STW)19154-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.3\x</subfield>
+    <subfield code="a">Wirtschaftsprüfung</subfield>
+    <subfield code="0">(DE-627)091401216</subfield>
+    <subfield code="0">(DE-STW)12903-5</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.journals.co.za/ej/ejour_sajaar.html</subfield>
+    <subfield code="x">H ; 5.2004 -: Volltexte</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.saiga.co.za/publications-sajaar.html</subfield>
+    <subfield code="x">H ; 1.1998 -: Abstracts</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2260017</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://reference.sabinet.co.za/sa_epublication/sajaar</subfield>
+    <subfield code="x">Agentur</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1609115244</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1609115252</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">371099609</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20190823135615.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">031002c19719999xx z| p|o    |0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">025127837</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2121129-2</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">0304-615X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)371099609</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)34726767X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2121129-2</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)163218983</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="a">afr</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XC-ZA</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">340</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">AFRIKA</subfield>
+    <subfield code="q">DE-30</subfield>
+    <subfield code="2">fid</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Africanus</subfield>
+    <subfield code="c">University of South Africa</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Pretoria</subfield>
+    <subfield code="b">UNISA</subfield>
+    <subfield code="c">1971-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Volume 1, issue 1 (January 1971)-</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="i">1971</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 10.08.2017</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">355!URL-Ä(24-07-17)464!URL-Ä(10-08-17)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Entwicklung</subfield>
+    <subfield code="0">(DE-627)091357322</subfield>
+    <subfield code="0">(DE-STW)10513-0</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Entwicklungspolitik</subfield>
+    <subfield code="0">(DE-627)091357470</subfield>
+    <subfield code="0">(DE-STW)10560-5</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.3\x</subfield>
+    <subfield code="a">Entwicklungsländer</subfield>
+    <subfield code="0">(DE-627)09135742X</subfield>
+    <subfield code="0">(DE-STW)10492-3</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.4\x</subfield>
+    <subfield code="a">Südafrika</subfield>
+    <subfield code="0">(DE-627)091393493</subfield>
+    <subfield code="0">(DE-STW)17688-0</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">University of South Africa</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)36220-7</subfield>
+    <subfield code="0">(DE-627)100833977</subfield>
+    <subfield code="0">(DE-576)190345047</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2="8">
+    <subfield code="i">In</subfield>
+    <subfield code="t">African journals onLine</subfield>
+    <subfield code="d">Oxford : INASP, 1998</subfield>
+    <subfield code="w">(DE-627)369084632</subfield>
+    <subfield code="w">(DE-600)21186534</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Druckausg.</subfield>
+    <subfield code="t">Africanus</subfield>
+    <subfield code="d">Pretoria, 1971</subfield>
+    <subfield code="w">(DE-627)16645530X</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2121129</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://journals.co.za/content/journal/canus_v46_n1_2016</subfield>
+    <subfield code="x">H ; 1.1971 - 29.1999</subfield>
+    <subfield code="z">Kostenfrei</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://journals.co.za/content/journal/canus</subfield>
+    <subfield code="x">H ; 31.2001-</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">941875490</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">941875504</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">772494673</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20190609120210.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">131127c19679999xx z| p|o    |0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1044534826</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2743644-5</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)772494673</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)398051054</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2743644-5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)864628419</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XC-ZA</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">510</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="210" ind1="1" ind2="0">
+    <subfield code="a">S. Afr. Statist. J.</subfield>
+  </datafield>
+  <datafield tag="210" ind1="1" ind2="0">
+    <subfield code="a">S. Afr. Stat. J.</subfield>
+  </datafield>
+  <datafield tag="210" ind1="1" ind2="0">
+    <subfield code="a">South African Statist. J.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">South African statistical journal</subfield>
+    <subfield code="b"> = Suid-Afrikaanse statistiese tydskrif</subfield>
+    <subfield code="c">South African Statistical Association</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="1">
+    <subfield code="a">Suid-Afrikaanse statistiese tydskrif</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Pretoria</subfield>
+    <subfield code="b">Assoc.</subfield>
+    <subfield code="c">1967-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">1.1967 -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">1</subfield>
+    <subfield code="i">1967</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 15.12.2016</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" ">
+    <subfield code="a">Digital. Ausg.: Centurion : Sabinet, 2011</subfield>
+  </datafield>
+  <datafield tag="533" ind1=" " ind2=" ">
+    <subfield code="b">Centurion</subfield>
+    <subfield code="c">Sabinet</subfield>
+    <subfield code="d">2011-2011</subfield>
+    <subfield code="7">|20112011||||||</subfield>
+    <subfield code="n">Digital. Ausg.: Centurion : Sabinet, 2011</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">C!URL-Ä(03-01-17)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Statistische Methode</subfield>
+    <subfield code="0">(DE-627)091392101</subfield>
+    <subfield code="0">(DE-STW)15064-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Statistische Methodenlehre</subfield>
+    <subfield code="0">(DE-627)09139211X</subfield>
+    <subfield code="0">(DE-STW)19581-1</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">South African Statistical Association</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)5214830-0</subfield>
+    <subfield code="0">(DE-627)231535309</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="x">0038-271X</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Erscheint auch als</subfield>
+    <subfield code="n">Druck-Ausgabe</subfield>
+    <subfield code="t">South African statistical journal</subfield>
+    <subfield code="d">Pretoria : Assoc., 1967</subfield>
+    <subfield code="w">(DE-627)129616087</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://journals.co.za/content/journal/sasj/browse?</subfield>
+    <subfield code="x">H ; 1 (1967)-34(2000)</subfield>
+    <subfield code="z">Kostenfrei</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://journals.co.za/content/journal/sasj/browse?</subfield>
+    <subfield code="x">H ; 35 (2001)-</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2743644</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1610103718</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1610103726</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="h">SWB</subfield>
+    <subfield code="i">ld</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
