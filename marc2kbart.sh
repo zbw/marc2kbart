@@ -27,6 +27,9 @@
 #   purposes. Before uploading the data into Folio the column has to be removed or the mapping
 #   rule has to be deleted in the 'marc2kbart.fix' file.
 
+url="http://unapi.k10plus.de/?id="
+database="opac-de-206"
+format="marcxml"
 
 # Check if arguments are provided
 if [[ $# -eq 0 ]] ; then
@@ -39,7 +42,7 @@ echo "Please wait... Records are being downloaded."
 # Parse recordIds and download records
 # Save records as records.xml
 # unAPI documentation: https://wiki.k10plus.de/display/K10PLUS/UnAPI
-cat $1 | xargs -n 1 -i curl -sS "http://unapi.k10plus.de/?id=opac-de-206:ppn:{}&format=marcxml" > records.xml
+cat $1 | xargs -n 1 -i curl -sS "${url}${database}:ppn:{}&format=${format}" > records.xml
 echo "Records are being converted to KBART format."
 
 # Convert records using fixes specified in file marc2kbart.fix

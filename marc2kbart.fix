@@ -1,6 +1,10 @@
 marc_map('001','identifier\.ppn')
 marc_map('245a','publication_title')
-marc_map('022a','online_identifier', join:'|')
+if marc_match(LDR/07,'s')
+  marc_map('022a','online_identifier', join:'|')
+else
+  marc_map('0209','online_identifier', join:'|')
+end
 marc_append('363[0]i','-01-01')
 marc_map('363[0]i','date_first_issue_online')
 marc_map('363[0]a','num_first_vol_online')
@@ -29,10 +33,13 @@ else
   set_field('publication_type','Monograph')
 end
 set_field('date_monograph_published_print','')
-set_field('date_monograph_published_online','')
+marc_map('008_/07-10','date_monograph_published_online');
 set_field('monograph_volume','')
-set_field('monograph_edition','')
-set_field('first_editor','')
+marc_map('250a','monograph_edition')
+if marc_match('7004','edt')
+  marc_map('700[1]a','first_editor', join:'|')
+  replace_all('first_editor','([\w])(,.*)','$1')
+end
 set_field('parent_publication_title_id','')
 set_field('preceding_publiation_title_id','')
 set_field('access_type','P')
@@ -40,7 +47,7 @@ set_field('preceding_title_journal_id','')
 set_field('journal_id','')
 set_field('journal_title_history','')
 do marc_each()
-  if marc_any_match('035a','DE-599')
+  if marc_any_match('035a','ZDB')
     marc_map('035a','zdb')
     substring(zdb,11,9)
   end
