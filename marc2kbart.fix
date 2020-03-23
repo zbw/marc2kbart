@@ -33,8 +33,12 @@ else
   set_field('publication_type','Monograph')
 end
 set_field('date_monograph_published_print','')
-marc_map('008_/07-10','date_monograph_published_online');
-set_field('monograph_volume','')
+if marc_match(LDR/07,'m')
+  marc_map('008_/07-10','date_monograph_published_online');
+end
+if marc_match(LDR/07,'m')
+  marc_map('490v','monograph_volume')
+end
 marc_map('250a','monograph_edition')
 if marc_match('7004','edt')
   marc_map('700[1]a','first_editor', join:'|')
