@@ -28,7 +28,7 @@
 #   rule has to be deleted in the 'marc2kbart.fix' file.
 
 url="http://unapi.k10plus.de/?id="
-database="opac-de-206"
+database="k10plus"
 format="marcxml"
 
 # Check if arguments are provided
