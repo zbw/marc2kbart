@@ -1,84 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record xmlns="http://www.loc.gov/MARC21/slim">
-  <leader>     cam a22        4500</leader>
-  <controlfield tag="001">165223022X</controlfield>
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">102603759X</controlfield>
   <controlfield tag="003">DE-627</controlfield>
-  <controlfield tag="005">20200103160204.0</controlfield>
+  <controlfield tag="005">20200415112305.0</controlfield>
   <controlfield tag="007">cr uuu---uuuuu</controlfield>
-  <controlfield tag="008">130405s2012    xx |||||o     00| ||eng c</controlfield>
+  <controlfield tag="008">180709c20189999xx z| p|o     0   |0eng c</controlfield>
   <datafield tag="016" ind1="7" ind2=" ">
-    <subfield code="a">738812935</subfield>
+    <subfield code="a">1162445157</subfield>
     <subfield code="2">DE-101</subfield>
   </datafield>
-  <datafield tag="020" ind1=" " ind2=" ">
-    <subfield code="a">9781781900604</subfield>
-    <subfield code="9">978-1-78190-060-4</subfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2935212-5</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2514-9288</subfield>
   </datafield>
   <datafield tag="035" ind1=" " ind2=" ">
-    <subfield code="a">(DE-627)165223022X</subfield>
+    <subfield code="a">(DE-627)102603759X</subfield>
   </datafield>
   <datafield tag="035" ind1=" " ind2=" ">
-    <subfield code="a">(DE-576)380815990</subfield>
+    <subfield code="a">(DE-576)507390938</subfield>
   </datafield>
   <datafield tag="035" ind1=" " ind2=" ">
-    <subfield code="a">(DE-599)GBV738812935</subfield>
+    <subfield code="a">(DE-599)ZDB2935212-5</subfield>
   </datafield>
   <datafield tag="035" ind1=" " ind2=" ">
-    <subfield code="a">(OCoLC)1047806325</subfield>
-  </datafield>
-  <datafield tag="035" ind1=" " ind2=" ">
-    <subfield code="a">(OCoLC)1056138580</subfield>
-  </datafield>
-  <datafield tag="035" ind1=" " ind2=" ">
-    <subfield code="a">(EBP)026204266</subfield>
-  </datafield>
-  <datafield tag="035" ind1=" " ind2=" ">
-    <subfield code="a">(UkBfE)bslw08948543</subfield>
+    <subfield code="a">(DE-101)1162445157</subfield>
   </datafield>
   <datafield tag="040" ind1=" " ind2=" ">
     <subfield code="a">DE-627</subfield>
     <subfield code="b">ger</subfield>
     <subfield code="c">DE-627</subfield>
-    <subfield code="e">rakwb</subfield>
+    <subfield code="e">rda</subfield>
   </datafield>
   <datafield tag="041" ind1=" " ind2=" ">
     <subfield code="a">eng</subfield>
   </datafield>
-  <datafield tag="082" ind1="0" ind2=" ">
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-GB</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
     <subfield code="a">020</subfield>
-    <subfield code="2">23</subfield>
-  </datafield>
-  <datafield tag="084" ind1=" " ind2=" ">
-    <subfield code="a">GLC</subfield>
-    <subfield code="2">bicssc</subfield>
-  </datafield>
-  <datafield tag="084" ind1=" " ind2=" ">
-    <subfield code="a">GLM</subfield>
-    <subfield code="2">bicssc</subfield>
-  </datafield>
-  <datafield tag="084" ind1=" " ind2=" ">
-    <subfield code="a">LAN025010</subfield>
-    <subfield code="2">bisacsh</subfield>
-  </datafield>
-  <datafield tag="084" ind1=" " ind2=" ">
-    <subfield code="a">EDU011000</subfield>
-    <subfield code="2">bisacsh</subfield>
+    <subfield code="q">DE-600</subfield>
   </datafield>
   <datafield tag="245" ind1="1" ind2="0">
-    <subfield code="a">Advances in Librarianship: Contexts for assessment and outcome evaluation in librarianship</subfield>
-    <subfield code="c">ed. by Anne Woodsworth ...</subfield>
+    <subfield code="a">Data technologies and applications</subfield>
   </datafield>
-  <datafield tag="250" ind1=" " ind2=" ">
-    <subfield code="a">1. ed.</subfield>
-  </datafield>
-  <datafield tag="264" ind1=" " ind2="1">
+  <datafield tag="264" ind1="3" ind2="1">
     <subfield code="a">Bingley</subfield>
     <subfield code="b">Emerald</subfield>
-    <subfield code="c">2012</subfield>
+    <subfield code="c">[2018]-</subfield>
   </datafield>
   <datafield tag="300" ind1=" " ind2=" ">
-    <subfield code="a">XVI, 184 S.</subfield>
-    <subfield code="b">graph. Darst.</subfield>
+    <subfield code="a">Online-Ressource</subfield>
   </datafield>
   <datafield tag="336" ind1=" " ind2=" ">
     <subfield code="a">Text</subfield>
@@ -95,97 +71,2328 @@
     <subfield code="b">cr</subfield>
     <subfield code="2">rdacarrier</subfield>
   </datafield>
-  <datafield tag="490" ind1="1" ind2=" ">
-    <subfield code="a">Advances in librarianship</subfield>
-    <subfield code="v">35</subfield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Volume 52, issue 1 (2018)-</subfield>
   </datafield>
-  <datafield tag="520" ind1=" " ind2=" ">
-    <subfield code="a">Assessment and outcomes evaluation have become increasingly important in librarianship. Although initially used in educational contexts to measure student learning, the strategy has migrated to other contexts such as hiring, employee development, overall organizational and institutional successes, measuring the outcomes of projects and operational changes, and self assessment at the personal level. This growing emphasis is partly due to increasingly stringent requirements that funds are used effectively to improve services and operations. The current economic climate and retrenchments in non-profit agencies, have raised the need for assessment and outcomes evaluation to a critical level. &apos;Contexts for Assessment and Outcome Evaluation in Librarianship&apos; focuses not on the how of undertaking assessment and outcomes evaluation, but rather on their successes and failures in various contexts in which these tools have been and will be used.</subfield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">52</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="i">2018</subfield>
   </datafield>
-  <datafield tag="533" ind1=" " ind2=" ">
-    <subfield code="f">Emerald insight</subfield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 15.04.2020</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Erscheint auch als</subfield>
+    <subfield code="n">Druck-Ausgabe</subfield>
+    <subfield code="t">Data technologies and applications</subfield>
+    <subfield code="d">Bingley : Emerald Publishing, 2018</subfield>
+    <subfield code="w">(DE-627)1030870675</subfield>
+  </datafield>
+  <datafield tag="780" ind1="0" ind2="0">
+    <subfield code="i">Fortsetzung von</subfield>
+    <subfield code="t">Program</subfield>
+    <subfield code="d">Bingley : Emerald, 1966</subfield>
+    <subfield code="h">Online-Ressource</subfield>
+    <subfield code="w">(DE-627)31871812X</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/2514-9288</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2935212</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">625424387</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200115074304.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">100505c20109999xx z| p|o     0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1001969359</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2551402-7</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2040-0713</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)625424387</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)322764149</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2551402-7</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)643252583</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)705526671</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1026954934</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1030362722</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1033803599</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1083812013</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-GB</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">330</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">AFRIKA</subfield>
+    <subfield code="q">DE-30</subfield>
+    <subfield code="2">fid</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">African journal of economic and management studies</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2=" ">
+    <subfield code="i">Nebent.</subfield>
+    <subfield code="a">AJEMS</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">Emerald</subfield>
+    <subfield code="c">2010-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">1.2010 -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">1</subfield>
+    <subfield code="i">2010</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 22.07.2019</subfield>
   </datafield>
   <datafield tag="591" ind1=" " ind2=" ">
-    <subfield code="a">IMD-Felder und 1131 maschinell ergänzt (SWB)</subfield>
+    <subfield code="a">206H+355!URL-Ä(22-07-19)</subfield>
   </datafield>
-  <datafield tag="650" ind1=" " ind2="4">
-    <subfield code="a">Language Arts &amp; Disciplines ; Library &amp; Information Science ; Administration &amp; Management* ; bisacsh</subfield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Betriebswirtschaftslehre</subfield>
+    <subfield code="0">(DE-627)091351391</subfield>
+    <subfield code="0">(DE-STW)12041-5</subfield>
+    <subfield code="2">stw</subfield>
   </datafield>
-  <datafield tag="650" ind1=" " ind2="4">
-    <subfield code="a">Education ; Evaluation ; bisacsh</subfield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Afrika</subfield>
+    <subfield code="0">(DE-627)091345790</subfield>
+    <subfield code="0">(DE-STW)17642-3</subfield>
+    <subfield code="2">stw</subfield>
   </datafield>
-  <datafield tag="650" ind1=" " ind2="4">
-    <subfield code="a">Library, archive &amp; information management ; bicssc</subfield>
-  </datafield>
-  <datafield tag="650" ind1=" " ind2="4">
-    <subfield code="a">Library &amp; information services ; bicssc</subfield>
-  </datafield>
-  <datafield tag="650" ind1=" " ind2="4">
-    <subfield code="a">Library science</subfield>
-  </datafield>
-  <datafield tag="700" ind1="1" ind2=" ">
-    <subfield code="a">Woodsworth, Anne</subfield>
-    <subfield code="e">Hrsg.</subfield>
-    <subfield code="4">edt</subfield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
   </datafield>
   <datafield tag="776" ind1="1" ind2=" ">
-    <subfield code="z">9781781900611</subfield>
+    <subfield code="x">2040-0705</subfield>
   </datafield>
   <datafield tag="776" ind1="0" ind2="8">
     <subfield code="i">Druckausg.</subfield>
-    <subfield code="a">Woodsworth, Anne</subfield>
-    <subfield code="t">Contexts for assessment and outcome evaluation in librarianship</subfield>
-    <subfield code="b">1. ed.</subfield>
-    <subfield code="d">Bingley : Emerald, 2012</subfield>
-    <subfield code="h">XVI, 184 S.</subfield>
-    <subfield code="w">(DE-627)1619012715</subfield>
-  </datafield>
-  <datafield tag="830" ind1=" " ind2="0">
-    <subfield code="a">Advances in librarianship</subfield>
-    <subfield code="v">35</subfield>
-    <subfield code="9">35</subfield>
-    <subfield code="w">(DE-627)556297024</subfield>
-    <subfield code="w">(DE-600)24023231</subfield>
+    <subfield code="t">African journal of economic and management studies</subfield>
+    <subfield code="d">Bingley : Emerald, 2010</subfield>
+    <subfield code="w">(DE-627)626938325</subfield>
   </datafield>
   <datafield tag="856" ind1="4" ind2="0">
-    <subfield code="u">https://www.emerald.com/insight/publication/doi/10.1108/S0065-2830(2012)35</subfield>
-    <subfield code="x">Verlag</subfield>
-    <subfield code="3">Volltext</subfield>
-  </datafield>
-  <datafield tag="856" ind1="4" ind2="0">
-    <subfield code="u">http://www.emeraldinsight.com/0065-2830/35</subfield>
-    <subfield code="m">X:EMERALD</subfield>
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/2040-0705</subfield>
     <subfield code="x">Verlag</subfield>
   </datafield>
   <datafield tag="856" ind1="4" ind2="0">
-    <subfield code="u">https://doi.org/10.1108/S0065-2830(2012)35</subfield>
-    <subfield code="m">X:EMERALD</subfield>
-    <subfield code="x">Resolving-System</subfield>
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/2040-0705</subfield>
+    <subfield code="x">Verlag; 1.2010 - 8.2017</subfield>
+    <subfield code="z">Deutschlandweit zugänglich</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2551402</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
   </datafield>
   <datafield tag="912" ind1=" " ind2=" ">
-    <subfield code="a">ZDB-55-BME</subfield>
-    <subfield code="b">2012</subfield>
+    <subfield code="a">ZDB-1-EFD</subfield>
   </datafield>
   <datafield tag="912" ind1=" " ind2=" ">
-    <subfield code="a">ZDB-55-BME</subfield>
+    <subfield code="a">ZDB-55-EMP</subfield>
   </datafield>
   <datafield tag="912" ind1=" " ind2=" ">
-    <subfield code="a">ZDB-55-BME</subfield>
-    <subfield code="b">2011-2015</subfield>
-  </datafield>
-  <datafield tag="912" ind1=" " ind2=" ">
-    <subfield code="a">ZDB-55-BME</subfield>
-    <subfield code="b">1991-2015</subfield>
+    <subfield code="a">ZDB-1-EJP</subfield>
   </datafield>
   <datafield tag="924" ind1="1" ind2=" ">
-    <subfield code="a">3507316838</subfield>
+    <subfield code="a">116402227X</subfield>
     <subfield code="b">DE-206</subfield>
     <subfield code="9">206</subfield>
     <subfield code="c">GBV</subfield>
-    <subfield code="d">d</subfield>
-    <subfield code="k">https://www.emerald.com/insight/publication/doi/10.1108/S0065-2830(2012)35</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="q">2010</subfield>
+    <subfield code="x">-</subfield>
+    <subfield code="y">-12M</subfield>
+    <subfield code="z">lizenziert: 2010 -  [die neuesten 12 Monate nicht zugänglich]</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">116402230X</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="q">2010</subfield>
+    <subfield code="x">-</subfield>
+    <subfield code="y">-12M</subfield>
+    <subfield code="z">lizenziert: 2010 -  [die neuesten 12 Monate nicht zugänglich]</subfield>
   </datafield>
   <datafield tag="951" ind1=" " ind2=" ">
-    <subfield code="a">BO</subfield>
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">564759716</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200115142306.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">080501c20089999xx z| p|o     0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">988469677</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2423661-5</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1753-8289</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)564759716</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)318815222</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2423661-5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)699643912</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-GB</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">330</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">International journal of housing markets and analysis</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">Emerald</subfield>
+    <subfield code="c">2008-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">1.2008 -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">1</subfield>
+    <subfield code="i">2008</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 18.07.2019</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">C!emerald-URL korr.(10-10-14)206H!URL-Ä(18-07-19)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Wohnungsmarkt</subfield>
+    <subfield code="0">(DE-627)091401720</subfield>
+    <subfield code="0">(DE-STW)13845-2</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Immobilienmarkt</subfield>
+    <subfield code="0">(DE-627)091366704</subfield>
+    <subfield code="0">(DE-STW)12031-1</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.3\x</subfield>
+    <subfield code="a">Wohnungswirtschaft</subfield>
+    <subfield code="0">(DE-627)09140178X</subfield>
+    <subfield code="0">(DE-STW)13305-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.4\x</subfield>
+    <subfield code="a">Welt</subfield>
+    <subfield code="0">(DE-627)09140004X</subfield>
+    <subfield code="0">(DE-STW)16809-5</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="x">1753-8270</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Druckausg.</subfield>
+    <subfield code="t">International journal of housing markets and analysis</subfield>
+    <subfield code="d">Bingley : Emerald, 2008</subfield>
+    <subfield code="w">(DE-627)614079578</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/1753-8270</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/1753-8270</subfield>
+    <subfield code="x">Verlag; 1.2008 - 10.2017</subfield>
+    <subfield code="z">Deutschlandweit zugänglich</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2423661</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EFD</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EMP</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM2</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EJP</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1102961728</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="q">2008</subfield>
+    <subfield code="x">-</subfield>
+    <subfield code="y">-12M</subfield>
+    <subfield code="z">lizenziert: 2008 -  [die neuesten 12 Monate nicht zugänglich]</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1102961744</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="q">2008</subfield>
+    <subfield code="x">-</subfield>
+    <subfield code="y">-12M</subfield>
+    <subfield code="z">lizenziert: 2008 -  [die neuesten 12 Monate nicht zugänglich]</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">350261474</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200115103804.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">020704c20029999xx z| p|o     0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">023631406</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2082534-1</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1758-7166</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">pq46136</subfield>
+    <subfield code="q">Sonstige Nummer</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)350261474</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)264151992</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2082534-1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)890271662</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1026933511</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1030401092</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1033827596</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-GB</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">630</subfield>
+    <subfield code="a">640</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">3,2</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">85.00</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Human resource management international digest</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2=" ">
+    <subfield code="i">Nebent.</subfield>
+    <subfield code="a">Human resources management international digest</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bingley</subfield>
+    <subfield code="b">Emerald</subfield>
+    <subfield code="c">2002-</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">[S.l.]</subfield>
+    <subfield code="b">Proquest</subfield>
+    <subfield code="c">2002-</subfield>
+  </datafield>
+  <datafield tag="264" ind1="2" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">MCB University Press</subfield>
+    <subfield code="c">anfangs</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Nachgewiesen 10.2002 -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">10</subfield>
+    <subfield code="i">2002</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 30.09.14</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">C!emerald-URL korr.(30-09-14)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Personalmanagement</subfield>
+    <subfield code="0">(DE-627)091382866</subfield>
+    <subfield code="0">(DE-STW)12567-2</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="x">0967-0734</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Druckausg.</subfield>
+    <subfield code="t">Human resource management international digest</subfield>
+    <subfield code="d">Bingley [u.a.] : Emerald, 1993</subfield>
+    <subfield code="w">(DE-627)590279920</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2082534</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/0967-0734</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/0967-0734</subfield>
+    <subfield code="x">Verlag; 10.2002 - 25.2017</subfield>
+    <subfield code="z">Deutschlandweit zugänglich</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EFD</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EMP</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM2</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM1</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EJP</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">85.00</subfield>
+    <subfield code="j">Betriebswirtschaft: Allgemeines</subfield>
+    <subfield code="0">(DE-627)106420402</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">354541749</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200312190046.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">020930d20002004xx z| p|o     0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">023887532</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2088633-0</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1758-4086</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">pq46094</subfield>
+    <subfield code="q">Sonstige Nummer</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)354541749</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)26415214X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2088633-0</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)637824914</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1033819952</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-GB</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">330</subfield>
+    <subfield code="a">310</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">83.70</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Balance sheet</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bingley</subfield>
+    <subfield code="b">Emerald</subfield>
+    <subfield code="c">2000-2004</subfield>
+  </datafield>
+  <datafield tag="264" ind1="2" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">MCB Univ. Press</subfield>
+    <subfield code="c">2000-2003</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Nachgewiesen 8.2000 - 12.2004</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="0">
+    <subfield code="a">8</subfield>
+    <subfield code="i">2000</subfield>
+  </datafield>
+  <datafield tag="363" ind1="1" ind2="0">
+    <subfield code="i">2004</subfield>
+    <subfield code="a">12</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 30.09.14</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">C!emerald-URL korr.(30-09-14)</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="x">0965-7967</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Druckausg.</subfield>
+    <subfield code="t">Balance sheet</subfield>
+    <subfield code="d">Bradford : MCB Univ. Press, 2001</subfield>
+    <subfield code="w">(DE-627)33593661X</subfield>
+  </datafield>
+  <datafield tag="785" ind1="0" ind2="0">
+    <subfield code="i">Aufgegangen in</subfield>
+    <subfield code="t">The journal of risk finance</subfield>
+    <subfield code="d">Bradford : Emerald, 1999</subfield>
+    <subfield code="h">Online-Ressource</subfield>
+    <subfield code="w">(DE-627)330079263</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2088633</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emeraldinsight.com/loi/bs</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/0965-7967</subfield>
+    <subfield code="x">H ; 8.2000 - 12.2004</subfield>
+    <subfield code="z">Deutschlandweit zugänglich</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EFD</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EMP</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM2</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM1</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EJP</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1737492474</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="m">8</subfield>
+    <subfield code="q">2000</subfield>
+    <subfield code="v">12</subfield>
+    <subfield code="r">2004</subfield>
+    <subfield code="z">lizenziert: 8.2000,1 - 12.2004,5</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">173754590X</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="m">8</subfield>
+    <subfield code="q">2000</subfield>
+    <subfield code="v">12</subfield>
+    <subfield code="r">2004</subfield>
+    <subfield code="z">lizenziert: 8.2000,1 - 12.2004,5</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">83.70</subfield>
+    <subfield code="j">Banken</subfield>
+    <subfield code="j">Versicherungen</subfield>
+    <subfield code="0">(DE-627)106414984</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">318496399</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200430195818.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">000824c20009999xx b| p|o     0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">020444168</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2014462-3</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1468-4535</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">pq36206</subfield>
+    <subfield code="q">Sonstige Nummer</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)318496399</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)110615565</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2014462-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)314471072</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1026606483</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1030342154</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1033772715</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-615)00249004</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-GB</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">004</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">06.74</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">06.00</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Online information review</subfield>
+    <subfield code="b">the international journal of digital information research and use</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">Emerald</subfield>
+    <subfield code="c">2000-</subfield>
+  </datafield>
+  <datafield tag="264" ind1="2" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">MCB Univ. Press</subfield>
+    <subfield code="c">früher</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">24.2000 -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">24</subfield>
+    <subfield code="i">2000</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Volltexte auch als Teil einer Datenbank verfügbar</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 25.07.2019</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">12!URL-Änderung(14-05-03);C!URL-Änderung(27-09-05) (SWB). - 206H!NA für Vorg.(23-10-14)206H+355!URL-Ä(25-07-19)</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4172591-8</subfield>
+    <subfield code="0">(DE-627)105386162</subfield>
+    <subfield code="a">Online-Informationssystem</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="x">1468-4527</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Druckausg.</subfield>
+    <subfield code="t">Online information review</subfield>
+    <subfield code="d">Bingley : Emerald Group Publ., 2000</subfield>
+    <subfield code="w">(DE-627)313494312</subfield>
+  </datafield>
+  <datafield tag="780" ind1="0" ind2="0">
+    <subfield code="i">Vorg.</subfield>
+    <subfield code="t">Online and CD-ROM review</subfield>
+    <subfield code="d">Bingley : Emerald, 1993</subfield>
+    <subfield code="h">Online-Ressource</subfield>
+    <subfield code="w">(DE-627)799557323</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/1468-4527</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/1468-4527</subfield>
+    <subfield code="x">Verlag; 24.2000 - 41.2017</subfield>
+    <subfield code="z">Deutschlandweit zugänglich</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.ingentaconnect.com/content/mcb/264</subfield>
+    <subfield code="x">Agentur</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2014462</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="889" ind1=" " ind2=" ">
+    <subfield code="w">(DE-576)385513445</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EFD</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EMP</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM2</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM1</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EJP</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">SSG-OPC-bbi</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">06.74</subfield>
+    <subfield code="j">Informationssysteme</subfield>
+    <subfield code="0">(DE-627)106415212</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">06.00</subfield>
+    <subfield code="j">Information und Dokumentation: Allgemeines</subfield>
+    <subfield code="0">(DE-627)10640315X</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">330079263</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200116112805.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">010607c19999999xx z| p|o     0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">021895112</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2048922-5</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2331-2947</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">pq52677</subfield>
+    <subfield code="q">Sonstige Nummer</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)330079263</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)264151828</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2048922-5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)985513974</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1033799031</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-GB</subfield>
+    <subfield code="c">XD-US</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">380</subfield>
+    <subfield code="a">330</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">3,2</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">83.52</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The journal of risk finance</subfield>
+    <subfield code="b">JRF</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">JRF</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">Emerald</subfield>
+    <subfield code="c">1999-</subfield>
+  </datafield>
+  <datafield tag="264" ind1="2" ind2="1">
+    <subfield code="a">New York, NY</subfield>
+    <subfield code="b">Institutional Investor</subfield>
+    <subfield code="c">anfangs</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">1.1999 -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">1</subfield>
+    <subfield code="i">1999</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 18.07.2019</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">206H+355!URL-Ä(18-07-19)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Unternehmensfinanzierung</subfield>
+    <subfield code="0">(DE-627)091359880</subfield>
+    <subfield code="0">(DE-STW)12205-1</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Risikokapital</subfield>
+    <subfield code="0">(DE-627)09138687X</subfield>
+    <subfield code="0">(DE-STW)12262-3</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="x">1526-5943</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Druckausg.</subfield>
+    <subfield code="t">Journal of risk finance</subfield>
+    <subfield code="d">Bingley : Emerald Group Publishing Limited, 1999</subfield>
+    <subfield code="w">(DE-627)35454389X</subfield>
+  </datafield>
+  <datafield tag="780" ind1="0" ind2="0">
+    <subfield code="i">Darin aufgeg.</subfield>
+    <subfield code="t">Balance sheet</subfield>
+    <subfield code="d">Bingley : Emerald, 2000</subfield>
+    <subfield code="h">Online-Ressource</subfield>
+    <subfield code="w">(DE-627)354541749</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/1526-5943</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/1526-5943</subfield>
+    <subfield code="x">Verlag; 1.1999 - 18.2017</subfield>
+    <subfield code="z">Deutschlandweit zugänglich</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2048922</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EFD</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EMP</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM2</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM1</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EJP</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">684915413</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="q">2005</subfield>
+    <subfield code="x">-</subfield>
+    <subfield code="y">-12M</subfield>
+    <subfield code="z">lizenziert: 2005 -  [die neuesten 12 Monate nicht zugänglich]</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">950802883</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="q">2005</subfield>
+    <subfield code="x">-</subfield>
+    <subfield code="y">-12M</subfield>
+    <subfield code="z">lizenziert: 2005 -  [die neuesten 12 Monate nicht zugänglich]</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">83.52</subfield>
+    <subfield code="j">Finanzwissenschaft</subfield>
+    <subfield code="0">(DE-627)106420283</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">332167429</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200416121805.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">010730d19961998xx z| p|o     0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">022063773</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2053062-6</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1758-6674</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)332167429</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)264151879</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2053062-6</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)863040307</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1033786247</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1083905275</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-GB</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">330</subfield>
+    <subfield code="a">600</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">85.00</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">International journal of quality science</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">MCB Univ. Press Ltd.</subfield>
+    <subfield code="c">1996-1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">1.1996 - 3.1998</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="0">
+    <subfield code="a">1</subfield>
+    <subfield code="i">1996</subfield>
+  </datafield>
+  <datafield tag="363" ind1="1" ind2="0">
+    <subfield code="i">1998</subfield>
+    <subfield code="a">3</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 18.07.2019</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">C!emerald-URL korr.(30-09-14)206H!URL-Ä(18-07-19)</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="x">1359-8538</subfield>
+  </datafield>
+  <datafield tag="785" ind1="0" ind2="0">
+    <subfield code="i">Aufgeg. in</subfield>
+    <subfield code="t">International journal of quality &amp; reliability management</subfield>
+    <subfield code="d">Bingley : Emerald, 1984</subfield>
+    <subfield code="h">Online-Ressource</subfield>
+    <subfield code="w">(DE-627)26601691X</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2053062</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/1359-8538</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/1359-8538</subfield>
+    <subfield code="x">Verlag; 1.1996 - 3.1998</subfield>
+    <subfield code="z">Deutschlandweit zugänglich</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EFD</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EMP</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM2</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM1</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EJP</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1737492334</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="m">1</subfield>
+    <subfield code="q">1996</subfield>
+    <subfield code="v">3</subfield>
+    <subfield code="r">1998</subfield>
+    <subfield code="z">lizenziert: 1.1996,1 - 3.1998,4</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">1737545764</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="m">1</subfield>
+    <subfield code="q">1996</subfield>
+    <subfield code="v">3</subfield>
+    <subfield code="r">1998</subfield>
+    <subfield code="z">lizenziert: 1.1996,1 - 3.1998,4</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">85.00</subfield>
+    <subfield code="j">Betriebswirtschaft: Allgemeines</subfield>
+    <subfield code="0">(DE-627)106420402</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">341911038</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200116133304.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">020206c19939999xx z| p|o     0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">023170220</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2070887-7</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2054-1686</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">pq10805</subfield>
+    <subfield code="q">Sonstige Nummer</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)341911038</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)273899392</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2070887-7</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)984515470</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1033914866</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-US</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">300</subfield>
+    <subfield code="a">330</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">3,2</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Multinational business review</subfield>
+    <subfield code="c">University of Detroit Mercy, College of Business Administration</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bingley</subfield>
+    <subfield code="b">Emerald</subfield>
+    <subfield code="c">1993-</subfield>
+  </datafield>
+  <datafield tag="264" ind1="2" ind2="1">
+    <subfield code="a">Detroit, Mich.</subfield>
+    <subfield code="b">College of Business Administration, University of Detroit Mercy</subfield>
+    <subfield code="c">früher</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Nachgewiesen 1993 -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="i">1993</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 07.08.2019</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">4025=proquest; 355!URL-Ä(07-08-19)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Multinationales Unternehmen</subfield>
+    <subfield code="0">(DE-627)091378923</subfield>
+    <subfield code="0">(DE-STW)12062-4</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Internationales Marketing</subfield>
+    <subfield code="0">(DE-627)091368677</subfield>
+    <subfield code="0">(DE-STW)10876-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.3\x</subfield>
+    <subfield code="a">Internationales Management</subfield>
+    <subfield code="0">(DE-627)592292495</subfield>
+    <subfield code="0">(DE-STW)29616-2</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.4\x</subfield>
+    <subfield code="a">Strategisches Management</subfield>
+    <subfield code="0">(DE-627)091393116</subfield>
+    <subfield code="0">(DE-STW)18029-0</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.5\x</subfield>
+    <subfield code="a">Unternehmensfinanzierung</subfield>
+    <subfield code="0">(DE-627)091359880</subfield>
+    <subfield code="0">(DE-STW)12205-1</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.6\x</subfield>
+    <subfield code="a">Personalmanagement</subfield>
+    <subfield code="0">(DE-627)091382866</subfield>
+    <subfield code="0">(DE-STW)12567-2</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="x">1525-383X</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Druckausg.</subfield>
+    <subfield code="t">Multinational business review</subfield>
+    <subfield code="d">Bingley : Emerald, 1993</subfield>
+    <subfield code="w">(DE-627)181981157</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/1525-383X</subfield>
+    <subfield code="x">Verlag; 11.2003 -</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/1525-383X</subfield>
+    <subfield code="x">Verlag; 11.2003 - 25.2017</subfield>
+    <subfield code="z">Deutschlandweit zugänglich</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2070887</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EFD</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EMP</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EJP</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">655206175</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="m">11</subfield>
+    <subfield code="q">2003</subfield>
+    <subfield code="v">24</subfield>
+    <subfield code="r">2016</subfield>
+    <subfield code="z">lizenziert: 11.2003 - 24.2016</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">947545298</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="m">11</subfield>
+    <subfield code="q">2003</subfield>
+    <subfield code="v">24</subfield>
+    <subfield code="r">2016</subfield>
+    <subfield code="z">lizenziert: 11.2003 - 24.2016</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">320650782</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200115101806.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">001013c19899999xx z| p|o     0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">020850484</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">2025931-1</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1758-7107</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">pq11512</subfield>
+    <subfield code="q">Sonstige Nummer</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)320650782</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)264151488</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB2025931-1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)863031834</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1026918405</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1030378379</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1033809236</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1083833004</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-GB</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">330</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">3,2</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">83.00</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">85.00</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="210" ind1="1" ind2="0">
+    <subfield code="a">Eur Bus R</subfield>
+  </datafield>
+  <datafield tag="210" ind1="1" ind2="0">
+    <subfield code="a">Europ Busin Rev</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">European business review</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">Emerald</subfield>
+    <subfield code="c">1989-</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">[S.l.]</subfield>
+    <subfield code="b">Proquest</subfield>
+    <subfield code="c">1989-</subfield>
+  </datafield>
+  <datafield tag="264" ind1="2" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">MCB Univ. Press</subfield>
+    <subfield code="c">anfangs</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">89.1989 - 99.1999; Jg. 12.2000 -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">89</subfield>
+    <subfield code="i">1989</subfield>
+  </datafield>
+  <datafield tag="363" ind1="1" ind2="0">
+    <subfield code="i">1999</subfield>
+    <subfield code="a">99</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 16.07.19</subfield>
+  </datafield>
+  <datafield tag="515" ind1=" " ind2=" ">
+    <subfield code="a">Beginnt mit Vol. 89</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">C!emerald-URL korr.(16-07-19)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Betriebswirtschaftslehre</subfield>
+    <subfield code="0">(DE-627)091351391</subfield>
+    <subfield code="0">(DE-STW)12041-5</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Management</subfield>
+    <subfield code="0">(DE-627)091376173</subfield>
+    <subfield code="0">(DE-STW)12085-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="x">0955-534X</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">CD-ROM-Ausg.</subfield>
+    <subfield code="t">European business review</subfield>
+    <subfield code="d">Bradford : MCB Univ. Press, 1996</subfield>
+    <subfield code="h">CD-ROMs</subfield>
+    <subfield code="w">(DE-627)231972210</subfield>
+    <subfield code="w">(DE-600)13877148</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Druckausg.</subfield>
+    <subfield code="t">European business review</subfield>
+    <subfield code="d">Bingley : Emerald Group Publishing Limited, 1989</subfield>
+    <subfield code="w">(DE-627)170381374</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?2025931</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/0955-534X</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/0955-534X</subfield>
+    <subfield code="x">Verlag; 1994 - 2017</subfield>
+    <subfield code="z">Deutschlandweit zugänglich</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EFD</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EMP</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM2</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM1</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EJP</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">662101251</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="q">1992</subfield>
+    <subfield code="x">-</subfield>
+    <subfield code="y">-12M</subfield>
+    <subfield code="z">lizenziert: 1992 -  [die neuesten 12 Monate nicht zugänglich]</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">950536717</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="q">1992</subfield>
+    <subfield code="x">-</subfield>
+    <subfield code="y">-12M</subfield>
+    <subfield code="z">lizenziert: 1992 -  [die neuesten 12 Monate nicht zugänglich]</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">83.00</subfield>
+    <subfield code="j">Volkswirtschaft: Allgemeines</subfield>
+    <subfield code="0">(DE-627)106416332</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">85.00</subfield>
+    <subfield code="j">Betriebswirtschaft: Allgemeines</subfield>
+    <subfield code="0">(DE-627)106420402</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">26601691X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200116071304.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">990318c19849999xx z| p|o     0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">019600275</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1466792-7</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1758-6682</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">pq14215</subfield>
+    <subfield code="q">Sonstige Nummer</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)26601691X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)264151038</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB1466792-7</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)985513589</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1033782029</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-GB</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">330</subfield>
+    <subfield code="a">600</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">3,2</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">ELIB45</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">85.38</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">50.16</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">International journal of quality &amp; reliability management</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bingley</subfield>
+    <subfield code="b">Emerald</subfield>
+    <subfield code="c">1984-</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">[S.l.]</subfield>
+    <subfield code="b">Proquest</subfield>
+    <subfield code="c">1984-</subfield>
+  </datafield>
+  <datafield tag="264" ind1="2" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">MCB Univ. Press</subfield>
+    <subfield code="c">anfangs</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">1.1984 -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">1</subfield>
+    <subfield code="i">1984</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 25.09.14</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">C!(URL-Änderung,06-09-00) (SWB). - C!emerald-URL korr.(25-09-14)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Qualitätsmanagement</subfield>
+    <subfield code="0">(DE-627)091384982</subfield>
+    <subfield code="0">(DE-STW)12713-3</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Instandhaltung</subfield>
+    <subfield code="0">(DE-627)091367964</subfield>
+    <subfield code="0">(DE-STW)12699-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4126457-5</subfield>
+    <subfield code="0">(DE-627)105732249</subfield>
+    <subfield code="0">(DE-576)209585226</subfield>
+    <subfield code="a">Qualitätssicherung</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="x">0265-671X</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Druckausg.</subfield>
+    <subfield code="t">International journal of quality &amp; reliability management</subfield>
+    <subfield code="d">Bingley : Emerald Group Publishing Limited, 1984</subfield>
+    <subfield code="w">(DE-627)129177636</subfield>
+  </datafield>
+  <datafield tag="780" ind1="0" ind2="0">
+    <subfield code="i">Darin aufgeg.</subfield>
+    <subfield code="t">International journal of quality science</subfield>
+    <subfield code="d">Bradford : MCB Univ. Press Ltd., 1996</subfield>
+    <subfield code="h">Online-Ressource</subfield>
+    <subfield code="w">(DE-627)332167429</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?1466792</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emeraldinsight.com/loi/ijqrm</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/0265-671X</subfield>
+    <subfield code="x">Verlag; 1.1984 - 34.2017</subfield>
+    <subfield code="z">Deutschlandweit zugänglich</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EFD</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EMP</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM2</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM1</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EJP</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">662227689</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="q">1992</subfield>
+    <subfield code="x">-</subfield>
+    <subfield code="y">-12M</subfield>
+    <subfield code="z">lizenziert: 1992 -  [die neuesten 12 Monate nicht zugänglich]</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">950629499</subfield>
+    <subfield code="b">DE-206</subfield>
+    <subfield code="9">206</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="q">1992</subfield>
+    <subfield code="x">-</subfield>
+    <subfield code="y">-12M</subfield>
+    <subfield code="z">lizenziert: 1992 -  [die neuesten 12 Monate nicht zugänglich]</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">85.38</subfield>
+    <subfield code="j">Qualitätsmanagement</subfield>
+    <subfield code="0">(DE-627)181570726</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">50.16</subfield>
+    <subfield code="j">Technische Zuverlässigkeit</subfield>
+    <subfield code="j">Instandhaltung</subfield>
+    <subfield code="0">(DE-627)106419404</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
+  </datafield>
+</record>
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cas a22        4500</leader>
+  <controlfield tag="001">271349786</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200116080827.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">990707c19469999xx z| p|o     0   |0eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">01972828X</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1479864-5</subfield>
+    <subfield code="2">DE-600</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1758-7379</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">pq38173</subfield>
+    <subfield code="q">Sonstige Nummer</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)271349786</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)079718957</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)ZDB1479864-5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)987368245</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)643582427</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1026571817</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1030381980</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1033739819</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-GB</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">020</subfield>
+    <subfield code="q">DE-600</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">ELIB02</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">06.00</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="210" ind1="1" ind2="0">
+    <subfield code="a">J. Doc.</subfield>
+  </datafield>
+  <datafield tag="210" ind1="1" ind2="0">
+    <subfield code="a">J. of docum.,London,GB</subfield>
+  </datafield>
+  <datafield tag="210" ind1="1" ind2="0">
+    <subfield code="a">J. Doc. (GB)</subfield>
+  </datafield>
+  <datafield tag="210" ind1="1" ind2="0">
+    <subfield code="a">J Docum</subfield>
+  </datafield>
+  <datafield tag="210" ind1="1" ind2="0">
+    <subfield code="a">J Documentation</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Journal of documentation</subfield>
+    <subfield code="c">ASLIB</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">Emerald</subfield>
+    <subfield code="c">1946-</subfield>
+  </datafield>
+  <datafield tag="264" ind1="2" ind2="1">
+    <subfield code="a">Bradford</subfield>
+    <subfield code="b">MCB Univ. Press</subfield>
+    <subfield code="c">früher</subfield>
+  </datafield>
+  <datafield tag="264" ind1="2" ind2="1">
+    <subfield code="a">[London]</subfield>
+    <subfield code="b">ASLIB</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">1.1945/46 -</subfield>
+  </datafield>
+  <datafield tag="363" ind1="0" ind2="1">
+    <subfield code="a">1</subfield>
+    <subfield code="i">1945/46</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 24.07.2019</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Abweichend zur Druck-Ausgabe umfasst die Online-Ausgabe bis 57.2001 keine Rezensionen</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">HZV!URL-A§ nderung(01-03-02) (GBV). - HZV!URL-Änderung(01-03-02) (SWB). - 206H+355!URL-Ä(24-07-19)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Dokumentation</subfield>
+    <subfield code="0">(DE-627)091355257</subfield>
+    <subfield code="0">(DE-STW)16782-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Informationswissenschaft</subfield>
+    <subfield code="0">(DE-627)091367689</subfield>
+    <subfield code="0">(DE-STW)16760-2</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.3\x</subfield>
+    <subfield code="a">Theorie</subfield>
+    <subfield code="0">(DE-627)091394902</subfield>
+    <subfield code="0">(DE-STW)19073-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.4\x</subfield>
+    <subfield code="a">Welt</subfield>
+    <subfield code="0">(DE-627)09140004X</subfield>
+    <subfield code="0">(DE-STW)16809-5</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">(DE-627)10454466X</subfield>
+    <subfield code="0">(DE-576)20917000X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4012656-0</subfield>
+    <subfield code="0">(DE-627)106347411</subfield>
+    <subfield code="0">(DE-576)208899650</subfield>
+    <subfield code="a">Dokumentation</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4012656-0</subfield>
+    <subfield code="0">(DE-627)106347411</subfield>
+    <subfield code="0">(DE-576)208899650</subfield>
+    <subfield code="a">Dokumentation</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">ASLIB</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)2005249-2</subfield>
+    <subfield code="0">(DE-627)101515162</subfield>
+    <subfield code="0">(DE-576)191608238</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="x">0022-0418</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Druckausg.</subfield>
+    <subfield code="t">Journal of documentation</subfield>
+    <subfield code="d">Bradford : Emerald, 1945</subfield>
+    <subfield code="w">(DE-627)129078328</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/0022-0418</subfield>
+    <subfield code="x">Verlag</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">https://www.emerald.com/insight/publication/issn/0022-0418</subfield>
+    <subfield code="x">Verlag; 1.1945/46 - 73.2017</subfield>
+    <subfield code="z">Deutschlandweit zugänglich</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.bibliothek.uni-regensburg.de/ezeit/?1479864</subfield>
+    <subfield code="x">Frontdoor-Url</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EFD</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EMP</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM2</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-55-EM1</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-1-EJP</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">SSG-OPC-bbi</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">ELIB02</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">06.00</subfield>
+    <subfield code="j">Information und Dokumentation: Allgemeines</subfield>
+    <subfield code="0">(DE-627)10640315X</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">JT</subfield>
   </datafield>
 </record>
