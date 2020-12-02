@@ -14,7 +14,7 @@ marc_append('363[0]i','-01-01')
 marc_map('363[0]i','date_first_issue_online')
 marc_map('363[0]a','num_first_vol_online')
 marc_map('363[0]b','num_first_issue_online')
-marc_append('363[1]i','-01-01')
+marc_append('363[1]i','-12-31')
 marc_map('363[1]i','date_last_issue_online')
 marc_map('363[1]a','num_last_vol_online')
 marc_map('363[1]b','num_last_issue_online')
@@ -23,6 +23,9 @@ if marc_any_match('856[40]x','[Verlag]')
 end
 if marc_any_match('856[40]3','[Volltext]')
   marc_map('856[40]u','title_url', join:'|')
+end
+if marc_any_match('856[41]3','[Volltext]')
+  marc_map('856[41]u','title_url', join:'|')
 end
 set_field('platform_url','https://elibrary.duncker-humblot.com/')
 set_field('platform','Duncker & Humblot eLibrary')
