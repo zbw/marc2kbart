@@ -1,0 +1,76 @@
+#marc_map('001','identifier\.ppn')
+marc_map('245ab','publication_title', join:' : ')
+if marc_match(LDR/07,'s')
+  marc_map('022a','online_identifier', join:'|')
+end
+do marc_each()
+  if marc_match(020c,'print')
+    marc_map('0209','print_identifier', join:'|')
+  else
+    marc_map('0209','online_identifier', join:'|')
+  end
+end
+marc_append('363[0]i','-01-01')
+marc_map('363[0]i','date_first_issue_online')
+marc_map('363[0]a','num_first_vol_online')
+marc_map('363[0]b','num_first_issue_online')
+if marc_match(LDR/07,'s')
+  set_field('date_last_issue_online','2019-12-31')
+end
+marc_append('363[1]i','-12-31')
+marc_map('363[1]i','date_last_issue_online')
+marc_map('363[1]a','num_last_vol_online')
+marc_map('363[1]b','num_last_issue_online')
+if marc_any_match('856[40]x','[Verlag]')
+  marc_map('856[40]u','title_url', join:'|')
+end
+if marc_any_match('856[40]3','[Volltext]')
+  marc_map('856[40]u','title_url', join:'|')
+end
+if marc_any_match('856[41]3','[Volltext]')
+  marc_map('856[41]u','title_url', join:'|')
+end
+#set_field('platform_url','https://www.elibrary.imf.org/')
+#set_field('platform','IMF eLibrary')
+marc_map('100a','first_author')
+replace_all('first_author','^([\w\s-]+)(,.*$)','$1')
+set_field('title_id','')
+set_field('embargo_info','')
+set_field('coverage_depth','fulltext')
+set_field('notes','')
+marc_map('264[,1]b','publisher_name', join:'|')
+if marc_match(LDR/07,'s')
+  set_field('publication_type','Serial')
+else
+  set_field('publication_type','Monograph')
+end
+set_field('date_monograph_published_print','')
+if marc_match(LDR/07,'m')
+  marc_map('008_/07-10','date_monograph_published_online');
+end
+if marc_match(LDR/07,'m')
+  marc_map('490v','monograph_volume')
+end
+marc_map('250a','monograph_edition')
+do marc_each()
+  if marc_any_match('7004','edt')
+    marc_map('700[1]a','first_editor.$append')
+    join_field(first_editor,'|')
+    replace_all('first_editor','^([\w\s-]+)(,.*$)','$1')
+  end
+end
+set_field('parent_publication_title_id','')
+set_field('preceding_publiation_title_id','')
+set_field('access_type','P')
+set_field('preceding_title_journal_id','')
+set_field('journal_id','')
+set_field('journal_title_history','')
+do marc_each()
+  if marc_any_match('035a','ZDB')
+    marc_map('035a','zdb_id')
+    substring(zdb_id,11,9)
+  end
+end
+set_field('monograph_parent_collection_title','')
+remove_field('_id')
+remove_field('record')
