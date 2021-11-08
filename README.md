@@ -1,11 +1,10 @@
 # MARC2KBART
 
-## Workflow for local packages WITHOUT loading into GOKb.
+## Workflow to extract bibliographic records from CBS and convert to KBART
 
-- Bib records in K10Plus => our union catalogue
-- Download, convert and and export as cvs => KBART title list
-- (Convert csv to JSON)
-- Ingest data into Folio's local KB
+- Extract bib records from CBS (any database)
+- Download, convert and and export as CSV file (KBART compliant)
+- This file can be used for ingest into GOKb
 
 
 ## Usage
