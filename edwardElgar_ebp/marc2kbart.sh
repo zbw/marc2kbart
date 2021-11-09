@@ -70,6 +70,6 @@ echo "Number of records successfully processed: "${resultCount}
 mv ${filename} metadata
 cp metadata/${filename} metadata/$1_daily.csv
 
-git add metadata
-git commit -m "add daily file stream"
-git push
+#git add metadata
+#git commit -m "add daily file stream"
+#git push
