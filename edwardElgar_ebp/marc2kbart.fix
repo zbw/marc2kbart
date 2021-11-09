@@ -23,7 +23,7 @@ marc_map('363[1]a','num_last_vol_online')
 marc_map('363[1]b','num_last_issue_online')
 if marc_any_match('856[40]x','Verlag')
   marc_map('856[40]u','title_url',split:1)
-  filter(title_url,'elgaronline')
+  filter(title_url,'(elgaronline|advancedintros)')
   join_field('title_url','|')
 end
 #if marc_any_match('856[40]x','[Verlag]')
