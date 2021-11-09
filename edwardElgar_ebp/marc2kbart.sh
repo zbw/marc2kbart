@@ -35,6 +35,8 @@ query="pica.xpr=$1"
 version="version=1.1"
 parser="marcxml"
 type="XML"
+date=$(date +%Y-%m-%d)
+filename="$1_${date}.csv"
 
 # Check if arguments are provided
 if [[ $# -eq 0 ]] ; then
@@ -58,8 +60,9 @@ publisher_name,publication_type,date_monograph_published_print,date_monograph_pu
 monograph_volume,monograph_edition,first_editor,parent_publication_title_id,\
 preceding_publiation_title_id,access_type,preceding_title_journal_id,\
 journal_id,journal_title_history,monograph_parent_collection_title,\
-zdb --sep_char '\t' > records.csv
+zdb --sep_char '\t' > ${filename}
 
 # Count and display record count
-resultCount=$(wc -l records.csv | awk '{print $1-1}')
+resultCount=$(wc -l ${filename} | awk '{print $1-1}')
 echo "Number of records successfully processed: "${resultCount}
+
