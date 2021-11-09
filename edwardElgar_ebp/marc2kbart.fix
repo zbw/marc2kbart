@@ -21,15 +21,20 @@ marc_append('363[1]i','-12-31')
 marc_map('363[1]i','date_last_issue_online')
 marc_map('363[1]a','num_last_vol_online')
 marc_map('363[1]b','num_last_issue_online')
-if marc_any_match('856[40]x','[Verlag]')
-  marc_map('856[40]u','title_url', join:'|')
+if marc_any_match('856[40]x','Verlag')
+  marc_map('856[40]u','title_url',split:1)
+  filter(title_url,'elgaronline')
+  join_field('title_url','|')
 end
-if marc_any_match('856[40]3','[Volltext]')
-  marc_map('856[40]u','title_url', join:'|')
-end
-if marc_any_match('856[41]3','[Volltext]')
-  marc_map('856[41]u','title_url', join:'|')
-end
+#if marc_any_match('856[40]x','[Verlag]')
+#  marc_map('856[40]u','title_url', join:'|')
+#end
+#if marc_any_match('856[40]3','[Volltext]')
+#  marc_map('856[40]u','title_url', join:'|')
+#end
+#if marc_any_match('856[41]3','[Volltext]')
+#  marc_map('856[41]u','title_url', join:'|')
+#end
 marc_map('100a','first_author')
 replace_all('first_author','^([\w\s-]+)(,.*$)','$1')
 set_field('title_id','')
