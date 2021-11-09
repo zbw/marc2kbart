@@ -66,3 +66,10 @@ zdb --sep_char '\t' > ${filename}
 resultCount=$(wc -l ${filename} | awk '{print $1-1}')
 echo "Number of records successfully processed: "${resultCount}
 
+# Move files
+mv ${filename} metadata
+cp metadata/${filename} metadata/$1_daily.csv
+
+git add metadata
+git commit -m "add daily file stream"
+git push
