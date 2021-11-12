@@ -7,10 +7,10 @@
 - This file can be used for ingest into GOKb
 
 ## How it works
-Mit diesen Skripten ist es möglich, Daten aus CBS-Datenbanken im Format MARC 21 XML herunterladen 
-und in eine CSV-Datei im KBART-Format zu konvertieren.
+With these scripts it is possible to download data from CBS databases in MARC 21 XML format 
+and convert it to a CSV file in KBART format.
 
-Zwei Szenarien sind umgesetzt:
+Two scenarios are implemented:
 
 ### Retrieval via SRU
 The user has to set a query in the ```query``` variable in marc2kbart.sh. 
@@ -32,12 +32,12 @@ rules in your institution.
 
 ## Usage
 
-+With SRU+
+With SRU:
 ```
 ./marc2kbart.sh [query]
 ```
 
-+With unAPI+
+With unAPI:
 ```
 ./marc2kbart.sh [filename]
 ```
